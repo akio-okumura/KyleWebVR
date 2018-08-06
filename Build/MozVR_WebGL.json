@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "MozVR_0806",
+"dataUrl": "MozVR_WebGL.data.unityweb",
+"asmCodeUrl": "MozVR_WebGL.asm.code.unityweb",
+"asmMemoryUrl": "MozVR_WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "MozVR_WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
